@@ -2,7 +2,7 @@
 
 A redesigned, performance-optimized landing page for [Propsoch](https://www.propsoch.com/), built with **Next.js 16**, **TypeScript**, and **Tailwind CSS v4**.
 
-> **Live Site**: _[https://propsoch-assignment-one.vercel.app/][https://propsoch-assignment-one.vercel.app/]
+> **Live Site**: https://propsoch-assignment-one.vercel.app/
 
 ---
 
