@@ -2,11 +2,11 @@
 
 A redesigned, performance-optimized landing page for [Propsoch](https://www.propsoch.com/), built with **Next.js 16**, **TypeScript**, and **Tailwind CSS v4**.
 
-> **Live Site**: _[Deploy link here]_
+> **Live Site**: _[https://propsoch-assignment-one.vercel.app/][https://propsoch-assignment-one.vercel.app/]
 
 ---
 
-## Part 1: Analysis
+## Part 1: Complete Analysis
 
 ### Estimated Lighthouse Scores (Original)
 
@@ -17,7 +17,7 @@ A redesigned, performance-optimized landing page for [Propsoch](https://www.prop
 | Best Practices  | ~80-85     | Mixed content, third-party tracking scripts                 |
 | SEO             | ~85-90     | Decent schema, but multiple H1 tags & broken heading hierarchy |
 
-### 5 UX/UI Issues & Fixes
+### 5 UX/UI Issues and Fixes
 
 | # | Issue | Impact | Fix Applied |
 |---|-------|--------|-------------|
@@ -104,3 +104,4 @@ app/
 ```bash
 npx vercel
 ```
+
